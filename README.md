@@ -19,3 +19,11 @@ me-cv/
 ├── index.html
 └── README/
 ```
+
+
+<p align="center">
+    <a href="https://img.shields.io/npm/l/as?color=MIT&label=licence&logo=MIT&logoColor=MIT">
+      <img src="https://img.shields.io/npm/l/as?color=MIT&label=licence&logo=MIT&logoColor=MIT">
+    </a>
+</p>
+
