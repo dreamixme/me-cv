@@ -8,7 +8,7 @@ Peyman Hosseini
 -------------------     ----------------------------
 
 ## Demo 
- Visit https://dreamix.ir!
+ Visit http://dreamix.ir!
 ```
 me-cv/
 ├── aasets/
